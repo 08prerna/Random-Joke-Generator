@@ -16,7 +16,8 @@ $Getting Started :
 To get started with the Random Joke Generator, simply follow these steps:
 
 * Clone this repository to your local machine.
-  git clone https://github.com/vyshnav0/Random-Joke-Generator.git
+  git clone https://github.com/
+08prerna/Random-Joke-Generator.git
 * Open the index.html file in your web browser.
   That's it! You're ready to start generating and enjoying random jokes.
 
