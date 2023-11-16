@@ -1,8 +1,10 @@
 # Random-Joke-Generator
 
-![image](https://github.com/08prerna/Random-Joke-Generator/assets/132763290/bdfa03d9-0200-40b2-bc2c-3f51dddadd31)
+![image](https://github.com/08prerna/Random-Joke-Generator/assets/132763290/0f5551a1-e505-4638-9409-893f936efa1d)
 
-![image](https://github.com/08prerna/Random-Joke-Generator/assets/132763290/f246479a-52fc-42e5-b0c6-513aa5b43187)
+
+![image](https://github.com/08prerna/Random-Joke-Generator/assets/132763290/8ac1d681-6498-4a5e-ba9c-48be7a9369b5)
+
 
 Welcome to the Random Joke Generator! This web app allows you to generate and enjoy random jokes after reloding the page.
 
