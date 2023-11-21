@@ -8,12 +8,12 @@
 
 Welcome to the Random Joke Generator! This web app allows you to generate and enjoy random jokes after reloding the page.
 
-#About :
+## About
 
 The Random Joke Generator is a simple web application that fetches random jokes from the JokeAPI and displays them on the screen. It provides two types of jokes: single-line jokes and two-part jokes.
 The application is built using HTML, CSS for styling, and JavaScript for fetching data from the API and updating the content on the page.
 
-#Getting Started :
+## Getting Started
 
 To get started with the Random Joke Generator, simply follow these steps:
 
@@ -22,11 +22,12 @@ To get started with the Random Joke Generator, simply follow these steps:
 * Open the index.html file in your web browser.
   That's it! You're ready to start generating and enjoying random jokes.
 
-#Technologies :
+
+## Technologies
 
 The project is built using the following technologies:
-* HTML
-* CSS
-* JavaScript
-* JokeAPI (for fetching random jokes)
 
+1. HTML
+2. CSS
+3. JavaScript
+4. JokeAPI (for fetching random jokes)
